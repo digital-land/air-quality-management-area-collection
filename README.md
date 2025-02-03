@@ -1,9 +1,9 @@
-# XXX collection
+# air-quality-management-area collection
 
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/XXX/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/air-quality-management-area-collection/blob/main/LICENSE)
 [![Run pipeline](https://github.com/digital-land/XXX-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/XXX-collection/actions/workflows/run.yml)
 
-The data and pipeline to build the [XXX dataset](https://www.digital-land.info/dataset/XXX).
+The data and pipeline to build the [XXX dataset](https://www.digital-land.info/dataset/air-quality-management-area/).
 
 # Collection
 
